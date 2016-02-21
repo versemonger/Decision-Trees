@@ -1,9 +1,0 @@
-python ID3.py -c 0
-python ID3.py -c 50
-python ID3.py -c 95
-python ID3.py -c 99
-python ID3.py -c 0 -m
-python ID3.py -c 50 -m
-python ID3.py -c 95 -m
-python ID3.py -c 99 -m
-python ID3.py -v
