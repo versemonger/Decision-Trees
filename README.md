@@ -1,3 +1,5 @@
+This project develops a decision tree classifier that can be used to classify whether a mushroom with certain kinds of attributes is poisonous.
+It builds the decision with ID3 and stop splitting with chi square test. It achieves an accuracy of 100%.
 The dataset comes from [UCL Machine Learning Respository](https://archive.ics.uci.edu/ml/datasets/Mushroom)
 
 Run script allMode will execute the ID3.py in 8 modes and additionaly execute the program on validation data set and generate validation result in the file validation_result.txt. The setting for validation is by default entropy and at a confidence level of 95.
